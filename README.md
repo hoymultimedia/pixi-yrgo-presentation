@@ -47,9 +47,10 @@ http://pixijs.download/release/docs/PIXI.Graphics.html
 
 Länkar:
 - https://github.com/pixijs
+- http://pixijs.download/release/docs/index.html
+- https://filters.pixijs.download/main/demo/index.html
 - https://github.com/pixijs/pixi-particles
 - https://lab.hoy.se/
-
 
 #### Run
 
