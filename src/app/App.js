@@ -1,10 +1,10 @@
 import { Application } from 'pixi.js';
 import Stats from 'stats.js';
 import appStore from './appStore';
-import Lab from './lab/Lab';
-// import LabA from './labA/LabA';
-// import LabB from './labB/LabB';
-// import LabC from './labC/LabC';
+// import Lab from './lab/Lab';
+// import Lab from './labA/LabA';
+// import Lab from './labB/LabB';
+import Lab from './labC/LabC';
 
 export default class App {
   init(htmlElement) {
