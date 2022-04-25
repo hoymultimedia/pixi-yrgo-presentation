@@ -25,12 +25,14 @@ module.exports = {
               context: 'src',
             },
           },
+          /*
           {
             loader: 'image-webpack-loader',
             options: {
               disable: false,
             },
           },
+          */
         ],
       },
     ],
